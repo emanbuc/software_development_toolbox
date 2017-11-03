@@ -1,2 +1,8 @@
-# software_development_toolbox
-Tools and resources for software developer
+# Software Development Toolbox
+Tools and resources for software developer.
+
+## Training
+
+[Short Courses](short_courses.md)
+
+## Tools
