@@ -6,3 +6,5 @@ Tools and resources for software developer.
 [Short Courses](short_courses.md)
 
 ## Tools
+
+[Free Tools](free_tools.md)
