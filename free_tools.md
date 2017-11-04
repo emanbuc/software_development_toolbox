@@ -1,7 +1,7 @@
 # Free Tools for Software Developer
 
 ## Visual Studio Dev Essential
-Many free tools and services for developers
+Many free tools and services and courses for developers
 ![Image of Dev Essential Portal](https://www.visualstudio.com/wp-content/uploads/2016/07/DE-portal.png)
 
 https://www.visualstudio.com/dev-essentials/
